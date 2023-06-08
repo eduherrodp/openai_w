@@ -1,1 +1,3 @@
-*.yaml
+# Exclude all the files in private folder
+
+/private/*
